@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eskinderit&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Alfa Romeo 6C 1750 Gran Sport 1000Miglia](Alfa Romeo 6C 1750 Gran Sport 1000Miglia.jfif)
