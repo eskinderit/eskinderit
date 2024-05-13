@@ -8,7 +8,7 @@ AI/ML dev that loves music :sound:, cars :car: and our planet :earth_africa:!
   <tr>
     <td>
       <div class="image-container" >
-        <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png" alt="Python" height="70px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="70px">
         <span>Python</span>
       </div>
     </td>
@@ -34,7 +34,7 @@ AI/ML dev that loves music :sound:, cars :car: and our planet :earth_africa:!
     </td>
     <td>
       <div class="image-container">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/PyTorch_logo_white.svg" alt="Spark" height="70px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" height="70px">
         <span>PyTorch</span>
       </div>
     </td>
@@ -46,7 +46,7 @@ AI/ML dev that loves music :sound:, cars :car: and our planet :earth_africa:!
     </td>
     <td>
       <div class="image-container">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Scikit-Learn" height="70px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="70px">
         <span>Keras</span>
       </div>
     </td>    
