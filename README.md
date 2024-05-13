@@ -4,10 +4,14 @@ AI/ML dev that loves music :sound:, cars :car: and our planet :earth_africa:!
 
 ## My tech stack :computer::
 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pytorch_logo.png/220px-Pytorch_logo.png" width="100"> | 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/200px-TensorFlowLogo.svg.png" width="100"> | 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/220px-Scikit_learn_logo_small.svg.png" width="100"> | 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/220px-Keras_logo.svg.png" width="100"> |
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg.png" width="100"> |
-|-----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| [PyTorch](https://pytorch.org/) | [TensorFlow](https://www.tensorflow.org/) | [Scikit-learn](https://scikit-learn.org/) | [Keras](https://keras.io/) | [Spark](https://spark.apache.org/) |
+| <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/220px-Java_programming_language_logo.svg.png" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" width="100"> |
+|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Python](https://www.python.org/) | [Java](https://www.java.com/) | [OpenCV](https://opencv.org/) | [PySpark](https://spark.apache.org/) |
+
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" width="100"> | <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="100"> | <img src="https://www.gurobi.com/wp-content/uploads/2019/11/gurobi-logo-big.png" width="100"> | <img src="https://developers.google.com/optimization/images/ortools_logo.png" width="100"> |
+|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| [Pandas](https://pandas.pydata.org/) | [Hugging Face](https://huggingface.co/) | [Gurobi](https://www.gurobi.com/) | [OR-Tools](https://developers.google.com/optimization) |
+
+| <img src="https://www.streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="100"> |
+|--------------------------------------------------------------------------------------------------------------|
+| [Streamlit](https://www.streamlit.io/) |
